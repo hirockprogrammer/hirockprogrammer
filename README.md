@@ -1,16 +1,27 @@
-## Hi there 👋
+# ---------------------------
+# 🔐 Environment Variables
+# ---------------------------
+# Personal Details
+NAME=Hirock Dutta
+ROLE=Full-Stack Web Developer
+STACK=MERN (MongoDB, Express.js, React.js, Node.js)
 
-<!--
-**hirockprogrammer/hirockprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Social Links
+GITHUB=https://github.com/HirockDutta
+LINKEDIN=https://linkedin.com/in/hirockdutta
+PORTFOLIO=https://hirock-portfolio.com
 
-Here are some ideas to get you started:
+# Project Details
+PROJECT_NAME=Real Estate Dashboard
+PROJECT_STACK=React, TailwindCSS, DaisyUI, React Icons, AOS, React+Vite
+DATABASE=MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Development
+DEV_LANGUAGE=TypeScript
+FRONTEND=Next.js, React.js, Vite
+BACKEND=Node.js, Express.js
+TOOLS=Docker, Redux Toolkit, JWT
+
+# Deployment
+DEPLOY_FRONTEND=Firebase
+DEPLOY_BACKEND=Vercel
